@@ -71,11 +71,6 @@ Uses pretrained weights to make predictions on images. Below table displays the 
 
     $ python3 detect.py --image_folder data/samples/
 
-<p align="center"><img src="assets/giraffe.png" width="480"\></p>
-<p align="center"><img src="assets/dog.png" width="480"\></p>
-<p align="center"><img src="assets/traffic.png" width="480"\></p>
-<p align="center"><img src="assets/messi.png" width="480"\></p>
-
 #### Train
 ```
 $ train.py [-h] [--epochs EPOCHS] [--batch_size BATCH_SIZE]
