@@ -20,8 +20,7 @@ The main work in this repository is detecting the object through PiCamera connec
 - Raspberry Pi 4B
 - PiCamera
 
-For those who are not familiar with using Raspberry Pi and PiCamera, check the additional material below.
-[Detail](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
+For those who are not familiar with using Raspberry Pi and PiCamera, check the [additional material](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera).
 
 
 * Code Example
@@ -32,6 +31,7 @@ python PiCamera.py
 
 
 ### Details about YOLOv3 Implementation
+- README.md from https://github.com/eriklindernoren/PyTorch-YOLOv3
 
 #### Installation
 ###### Clone and install requirements
