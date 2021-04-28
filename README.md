@@ -15,10 +15,11 @@ The main work in this repository is detecting the object through PiCamera connec
 
 ### How to detect object with PiCamera
 
-* Pre-requisite
 
-- Raspberry Pi 4B
-- PiCamera
+> Pre-requisite
+> - Raspberry Pi 4B
+> - PiCamera
+
 
 For those who are not familiar with using Raspberry Pi and PiCamera, check the [additional material](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera).
 
